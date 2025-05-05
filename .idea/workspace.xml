@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ec97b78-d750-4035-b30c-36186a9bc4bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="0ec97b78-d750-4035-b30c-36186a9bc4bb" name="Changes" comment="🧪 Segundo Projeto: Automação de Cadastro, Login e Logout&#10;&#9;@FindBy(css=&quot;&quot;)&#10;&#9;private WebElement webElement;&#10;&#10;Este é o segundo projeto do meu portfólio de QA, focado na automação dos fluxos de cadastro, login e logout de um sistema web, utilizando Selenium WebDriver, JUnit 5 e Java." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +29,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,6 +42,33 @@
       <option name="presentableId" value="Default" />
       <updated>1746460080897</updated>
     </task>
+    <task id="LOCAL-00001" summary="🧪 Segundo Projeto: Automação de Cadastro, Login e Logout&#10;&#10;Este é o segundo projeto do meu portfólio de QA, focado na automação dos fluxos de cadastro, login e logout de um sistema web, utilizando Selenium WebDriver, JUnit 5 e Java.">
+      <created>1746460754627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746460754627</updated>
+    </task>
+    <task id="LOCAL-00002" summary="🧪 Segundo Projeto: Automação de Cadastro, Login e Logout&#10;&#10;Este é o segundo projeto do meu portfólio de QA, focado na automação dos fluxos de cadastro, login e logout de um sistema web, utilizando Selenium WebDriver, JUnit 5 e Java.">
+      <created>1746460773692</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746460773692</updated>
+    </task>
+    <task id="LOCAL-00003" summary="🧪 Segundo Projeto: Automação de Cadastro, Login e Logout&#10;&#9;@FindBy(css=&quot;&quot;)&#10;&#9;private WebElement webElement;&#10;&#10;Este é o segundo projeto do meu portfólio de QA, focado na automação dos fluxos de cadastro, login e logout de um sistema web, utilizando Selenium WebDriver, JUnit 5 e Java.">
+      <created>1746460794532</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746460794532</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" Segundo Projeto: Automação de Cadastro, Login e Logout&#10;&#10;Este é o segundo projeto do meu portfólio de QA, focado na automação dos fluxos de cadastro, login e logout de um sistema web, utilizando Selenium WebDriver, JUnit 5 e Java." />
+    <MESSAGE value=" Segundo Projeto: Automação de Cadastro, Login e Logout&#10;&#9;@FindBy(css=&quot;&quot;)&#10;&#9;private WebElement webElement;&#10;&#10;Este é o segundo projeto do meu portfólio de QA, focado na automação dos fluxos de cadastro, login e logout de um sistema web, utilizando Selenium WebDriver, JUnit 5 e Java." />
+    <option name="LAST_COMMIT_MESSAGE" value=" Segundo Projeto: Automação de Cadastro, Login e Logout&#10;&#9;@FindBy(css=&quot;&quot;)&#10;&#9;private WebElement webElement;&#10;&#10;Este é o segundo projeto do meu portfólio de QA, focado na automação dos fluxos de cadastro, login e logout de um sistema web, utilizando Selenium WebDriver, JUnit 5 e Java." />
   </component>
 </project>
